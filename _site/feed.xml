@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.1">Jekyll</generator><link href="http://localhost:4000/bitcoingift/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/bitcoingift/" rel="alternate" type="text/html" /><updated>2017-12-28T01:13:54+05:30</updated><id>http://localhost:4000/bitcoingift/</id><title type="html">Bitcoin Gift</title><subtitle>The easiest and best way to recieve donations from your community</subtitle><author><name>Bitcoin</name><email>mukeshjha5661@gmail.com</email></author><entry><title type="html">Step-1 Set up a Wallet</title><link href="http://localhost:4000/bitcoingift/blog/2017/step-1-set-up-wallet/" rel="alternate" type="text/html" title="Step-1 Set up a Wallet" /><published>2017-12-25T19:16:52+05:30</published><updated>2017-12-25T19:16:52+05:30</updated><id>http://localhost:4000/bitcoingift/blog/2017/step-1-set-up-wallet</id><content type="html" xml:base="http://localhost:4000/bitcoingift/blog/2017/step-1-set-up-wallet/">&lt;h1&gt;Step-1 Setup a wallet&lt;/h1&gt;
+
+&lt;pre&gt;&lt;code&gt;&amp;lt;p&amp;gt;The Bitcoin wallet is simply a pair of public address and a private key.
+The public key is to be shared to recieve Bitcoins same as we share our 	email-id to recieve emails.The private key needs to be kept safe and 		secret.You can access your Bitcoins on your address by the private key.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Be mindful of the fact that unlike in the case of websites like Facebook, 		Gmail where you have the option to regenrate the password by choosing &quot;Forgot 		Password&quot; option. In Bitcoins you cannot regenerate the private key if you 		lose it once.Because Bitcoin is not a company which would keep back up 		of the private key. You are fully responsible to keep your private keys safe 		and secured.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;To create a brand new Bitcoin wallet,&amp;lt;/p&amp;gt; 
+
+&amp;lt;p&amp;gt;Download Blockchain app&amp;lt;/p&amp;gt; 
+Remember to safely save the &quot;recovery phrase&quot; provided at the time of sign up.
+This is required to retrieve the wallet when you reinstall the app or change 		the phone. If you lose this phrase, then you can never restore your wallet if 		the app gets deleted from the phone or the phone is lost.
+
+Other option for a mobile wallet is Bread Wallet. It has a very user friendly 		UI.
+
+
+Go to https://www.bitaddress.org/
+On this site you can just drag the mouse cursor for few seconds
+&lt;/code&gt;&lt;/pre&gt;</content><author><name>Bitcoin</name><email>mukeshjha5661@gmail.com</email></author><summary type="html">Step-1 Setup a wallet</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://jekyllrb.com/img/octojekyll.png" /></entry><entry><title type="html">Lorem ipsum dolor sit</title><link href="http://localhost:4000/bitcoingift/blog/2015/lorem-ipsum-dolor-sit/" rel="alternate" type="text/html" title="Lorem ipsum dolor sit" /><published>2015-11-26T19:16:52+05:30</published><updated>2015-11-26T19:16:52+05:30</updated><id>http://localhost:4000/bitcoingift/blog/2015/lorem-ipsum-dolor-sit</id><content type="html" xml:base="http://localhost:4000/bitcoingift/blog/2015/lorem-ipsum-dolor-sit/">&lt;h1&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit.&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Pellentesque habitant morbi tristique&lt;/strong&gt; senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. &lt;em&gt;Aenean ultricies mi vitae est.&lt;/em&gt; Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, &lt;code&gt;commodo vitae&lt;/code&gt;, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. &lt;a href=&quot;#&quot;&gt;Donec non enim&lt;/a&gt; in turpis pulvinar facilisis. Ut felis.&lt;/p&gt;
+
+&lt;h2&gt;Header Level 2&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit.&lt;/li&gt;
+  &lt;li&gt;Aliquam tincidunt mauris eu risus.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna. Cras in mi at felis aliquet congue. Ut a est eget ligula molestie gravida. Curabitur massa. Donec eleifend, libero at sagittis mollis, tellus est malesuada tellus, at luctus turpis elit sit amet quam. Vivamus pretium ornare est.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;h3&gt;Header Level 3&lt;/h3&gt;
+
+&lt;h4&gt;Header Level 4&lt;/h4&gt;
+&lt;h5&gt;Header Level 5&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit.&lt;/li&gt;
+  &lt;li&gt;Aliquam tincidunt mauris eu risus.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-css&quot; data-lang=&quot;css&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;#&lt;/span&gt;&lt;span class=&quot;nn&quot;&gt;header&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;h1&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;display&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;block&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;300&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;px&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;height&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;80&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;px&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;</content><author><name>Bitcoin</name><email>mukeshjha5661@gmail.com</email></author><summary type="html">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</summary></entry><entry><title type="html">Lorem ipsum dolor sit amet</title><link href="http://localhost:4000/bitcoingift/blog/2015/lorem/" rel="alternate" type="text/html" title="Lorem ipsum dolor sit amet" /><published>2015-11-13T00:49:43+05:30</published><updated>2015-11-13T00:49:43+05:30</updated><id>http://localhost:4000/bitcoingift/blog/2015/lorem</id><content type="html" xml:base="http://localhost:4000/bitcoingift/blog/2015/lorem/">&lt;p&gt;&lt;strong&gt;Pellentesque habitant morbi tristique&lt;/strong&gt; senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. &lt;em&gt;Aenean ultricies mi vitae est.&lt;/em&gt; Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, &lt;code&gt;commodo vitae&lt;/code&gt;, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. &lt;a href=&quot;#&quot;&gt;Donec non enim&lt;/a&gt; in turpis pulvinar facilisis. Ut felis.&lt;/p&gt;
+
+&lt;h2&gt;Header Level 2&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit.&lt;/li&gt;
+  &lt;li&gt;Aliquam tincidunt mauris eu risus.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna. Cras in mi at felis aliquet congue. Ut a est eget ligula molestie gravida. Curabitur massa. Donec eleifend, libero at sagittis mollis, tellus est malesuada tellus, at luctus turpis elit sit amet quam. Vivamus pretium ornare est.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;h3&gt;Header Level 3&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit.&lt;/li&gt;
+  &lt;li&gt;Aliquam tincidunt mauris eu risus.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;Header Level 4&lt;/h4&gt;
+
+&lt;h5&gt;Header Level 5&lt;/h5&gt;
+
+&lt;h6&gt;Header Level 6&lt;/h6&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-css&quot; data-lang=&quot;css&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;#&lt;/span&gt;&lt;span class=&quot;nn&quot;&gt;header&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;h1&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;display&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;block&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;300&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;px&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;height&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;80&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;px&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;</content><author><name>Bitcoin</name><email>mukeshjha5661@gmail.com</email></author><category term="welcome" /><summary type="html">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis.</summary></entry></feed>

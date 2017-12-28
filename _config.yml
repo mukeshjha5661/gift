@@ -1,0 +1,49 @@
+# Build settings
+permalink: /blog/:year/:title/
+markdown: kramdown
+highlighter: pygments
+plugin: [jekyll-paginate]
+
+paginate: 3
+paginate_path: "/start/page/:num/"
+comments: true
+
+source: source
+destination: _site
+sass:
+  sass_dir: _sass
+  style: compressed # expanded
+
+# SEO settings
+title: Bitcoin Gift
+description: "The easiest and best way to recieve donations from your community"
+keywords: "Jekyll, theme, free, download, SEO, blog, web"
+url: http://nandomoreira.me
+baseurl: "/bitcoingift"
+
+google_analytics: UA-52446115-1
+repo: https://github.com/mukeshjha5661/gift
+disqus_shortname: "nandothemes"
+disqus_site_shortname: "nandothemes"
+
+# Author settings
+author:
+  name: Bitcoin
+  job: Peer to Peer Digital Cash system
+  bio: "The easiest and best way to recieve donations from your community."
+  thumb: /images/bitcoin.png  
+  email: mukeshjha5661@gmail.com
+  url: https://about.me/mukesh_jha
+  github: https://github.com/mukeshjha5661
+  twitter: https://twitter.com/mukeshjha5661
+  facebook: https://facebook.com/mukesh.jha.5661
+  telegram: https://t.me/poll4coins
+
+# navbar pages
+navbar:
+  - slug: about
+    title: About
+  - slug: start
+    title: Start
+
+exclude: ["config.rb", "src", "Gemfile", "Gemfile.lock", "package.json","README.md", "Rakefile"]
